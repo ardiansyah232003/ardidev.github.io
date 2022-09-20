@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Calculator",
-    cardImage: "assets/images/project-page/calculator.JPG",
+    cardImage: "assets/images/project-page/calculator.jpg",
     description: "calculator is a popular application today developed by developers.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://ardiansyah232003.github.io/project-2.github.io/",
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "Tictactoe",
-    cardImage: "assets/images/project-page/tictactoe.JPG",
+    cardImage: "assets/images/project-page/tictactoe.jpg",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://ardiansyah232003.github.io/project-1.github.io/",
