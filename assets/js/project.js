@@ -28,8 +28,8 @@ const projects = [
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://ardiansyah232003.github.io/project-1.github.io/",
     Githublink: "https://github.com/ardiansyah232003/project-1.github.io",
-  }
-    {
+  },
+  {
     title: "Background Color",
     cardImage: "assets/images/project-page/background-color.jpg",
     description: "Background Color built using Javascript",
