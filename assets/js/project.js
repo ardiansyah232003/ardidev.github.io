@@ -31,12 +31,21 @@ const projects = [
   },
   {
     title: "Background Color",
-    cardImage: "assets/images/project-page/background-color.jpg",
+    cardImage: "assets/images/project-page/bg-color.jpg",
     description: "Background Color built using Javascript",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://ardiansyah232003.github.io/background-color.github/",
     Githublink: "https://github.com/ardiansyah232003/background-color.github",
+  },
+  {
+    title: "Text Counter",
+    cardImage: "assets/images/project-page/text-counter.jpg",
+    description: "Text Counter built using Javascript",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://ardiansyah232003.github.io/text-counter.github-io/",
+    Githublink: "https://github.com/ardiansyah232003/text-counter.github-io",
   }
+
 ];
 
 // function for rendering project cards data
