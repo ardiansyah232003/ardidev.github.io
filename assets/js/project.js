@@ -44,6 +44,13 @@ const projects = [
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://ardiansyah232003.github.io/text-counter.github-io/",
     Githublink: "https://github.com/ardiansyah232003/text-counter.github-io",
+  },{
+    title: "Age Calculator",
+    cardImage: "assets/images/project-page/age-calculator.png",
+    description: "Age Calculator built using html, css, and javascript",
+    tagimg: "hthttps://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Githublink: "https://github.com/ardiansyah232003/age-calculator"
   }
 
 ];
