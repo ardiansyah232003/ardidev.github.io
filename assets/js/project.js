@@ -31,7 +31,7 @@ const projects = [
   },
   {
     title: "Background Color",
-    cardImage: "assets/images/project-page/bg-color.jpg",
+    cardImage: "assets/images/project-page/background-color-app.png",
     description: "Background Color built using Javascript",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://ardiansyah232003.github.io/background-color.github/",
@@ -39,18 +39,43 @@ const projects = [
   },
   {
     title: "Text Counter",
-    cardImage: "assets/images/project-page/text-counter.jpg",
+    cardImage: "assets/images/project-page/count-app.png",
     description: "Text Counter built using Javascript",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://ardiansyah232003.github.io/text-counter.github-io/",
     Githublink: "https://github.com/ardiansyah232003/text-counter.github-io",
-  },{
+  },
+  {
     title: "Age Calculator",
     cardImage: "assets/images/project-page/age-calculator.png",
     description: "Age Calculator built using html, css, and javascript",
-    tagimg: "hthttps://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Githublink: "https://github.com/ardiansyah232003/age-calculator"
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://ardiansyah232003.github.io/age-calculator/",
+    Githublink: "https://github.com/ardiansyah232003/age-calculator",
+  },
+  {
+    title: "Weather App",
+    cardImage: "assets/images/project-page/weather-app.png",
+    description: "Weather App built using html, css, and javascript",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://ardiansyah232003.github.io/weather-web/",
+    Githublink: "https://github.com/ardiansyah232003/weather-web",
+  },
+  {
+    title: "Quote App",
+    cardImage: "assets/images/project-page/quote-app.png",
+    description: "Quote App built using html, css, and javascript",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://ardiansyah232003.github.io/quote-app/",
+    Githublink: "https://github.com/ardiansyah232003/quote-app",
+  }, 
+  {
+    title: "Digital Clock",
+    cardImage: "assets/images/project-page/time-app.png",
+    description: "Quote App built using html, css, and javascript",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://ardiansyah232003.github.io/digital-clock/",
+    Githublink: "https://github.com/ardiansyah232003/digital-clock",
   }
 
 ];
