@@ -16,17 +16,17 @@ window.onload = function () {
   document.addEventListener("visibilitychange", function (e) {
     if (!document.hidden) {
       document.title = pageTitle;
-      favicon.href = "./assets/images/dp_ardiansyah.jpg";
+      favicon.href = "./assets/images/profile-me4.png";
     }
   });
 
   function toggle() {
     if (document.title === attentionMessage) {
       document.title = pageTitle;
-      favicon.href = "./assets/images/dp_ardiansyah.jpg";
+      favicon.href = "./assets/images/profile-me4.png";
     } else {
       document.title = attentionMessage;
-      favicon.href = "./assets/images/folded.png";
+      favicon.href = "./assets/images/profile-me4.png";
     }
   }
 };
